@@ -22,6 +22,6 @@
    
    ##
    
-![Snake animation](https://github.com/luis-sardinha/luis-sardinha/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/luis-sardinha/luis-sardinha/blob/output/github-contribution-grid-snake.svg)
    
    
