@@ -27,5 +27,7 @@
     <a href="https://www.linkedin.com/in/luis-sardinha-7b730a27b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
+  
+  ![Snake animation](https://github.com/luis-sardinha/luis-sardinha/blob/output/github-contributiongrid-snake.svg)
 
 
