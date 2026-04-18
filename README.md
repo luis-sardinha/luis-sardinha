@@ -1,7 +1,7 @@
 ### Olá! Eu Sou Luis Sardinha 👋
 
-- 🔭 Estou a procura de trabalho ou estágio
-- 🌱 Estudando Pyhton
+- 🔭 Analista de Dados e IA
+- 🌱 Python | Automacao |
 - 😄 Pronouns: ele/dele
 
 ##
