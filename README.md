@@ -73,12 +73,16 @@ Analista e Cientista de Dados com experiência no ciclo completo de dados — da
 
 ---
 
-## Estatísticas
+## Áreas de Atuação
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luis-sardinha&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-sardinha&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff"/>
-</div>
+| | |
+|---|---|
+| 📊 **Análise de Dados** | Exploração, limpeza e interpretação de dados para geração de insights |
+| 🤖 **Machine Learning** | Modelos de classificação, regressão e avaliação de performance |
+| 🔄 **ETL & Pipelines** | Ingestão, transformação e carga de dados entre sistemas |
+| 📈 **Business Intelligence** | Dashboards em Power BI e Looker Studio para tomada de decisão |
+| ⚙️ **Automação** | Fluxos automatizados com n8n e Make para integração de ferramentas |
+| 🗃️ **SQL & Bancos de Dados** | Consultas, modelagem e otimização em MySQL e bancos relacionais |
 
 ---
 
