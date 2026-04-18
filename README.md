@@ -3,7 +3,7 @@
 # Luis Sardinha
 ### Analista de Dados & Cientista de Dados
 
-*Transformando dados em decisões através de Machine Learning e análise estatística*
+*Transformando dados em decisões através de Machine Learning, automação e visualização*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-sardinha-7b730a27b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.sardinha.dev@gmail.com)
@@ -15,11 +15,11 @@
 
 ## Sobre
 
-Analista e Cientista de Dados com foco em **Machine Learning**, **automação de processos** e **análise exploratória de dados**. Trabalho com o ciclo completo de um projeto de dados — da coleta e limpeza até modelagem, avaliação e entrega de insights.
+Analista e Cientista de Dados com experiência no ciclo completo de dados — da **ingestão e ETL** até **modelagem preditiva** e **visualização de dashboards**. Trabalho com automação de pipelines, integração de ferramentas no-code e entrega de insights acionáveis para tomada de decisão.
 
 ---
 
-## Stack de Dados & IA
+## Dados & Machine Learning
 
 <div align="center">
 
@@ -28,11 +28,38 @@ Analista e Cientista de Dados com foco em **Machine Learning**, **automação de
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-## Stack de Desenvolvimento
+## Banco de Dados & ETL
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipeline-6366f1?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+</div>
+
+## Visualização & BI
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)
+
+</div>
+
+## Automação & Integrações
+
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+</div>
+
+## Desenvolvimento Web
 
 <div align="center">
 
